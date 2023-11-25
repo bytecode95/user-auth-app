@@ -21,6 +21,7 @@ app.use('/api/v1', userRoutes);
 
 
 
+
 app.listen(port, ()=>{
     console.log(`Example app listening on port ${port}`);
 })
